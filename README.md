@@ -1,2 +1,2 @@
-# iOS-Demo-Projects
-This repo is for demo projects
+# SwiftUI-Demo-Projects
+This repo is for SwiftUI demo projects
